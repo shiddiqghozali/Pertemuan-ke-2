@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    string nama;
+    cout <<"masukkan Nama"<<endl;
+    cin >>nama;
+    cout <<nama;
+}
