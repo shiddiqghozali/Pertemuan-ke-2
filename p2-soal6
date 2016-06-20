@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int bil1;
+    int bil2;
+
+    cout <<"Masukkan Bilangan Pertama" <<endl;
+    cin >>bil1;
+    cout <<"Masukkan Bilangan Kedua" <<endl;
+    cin >>bil2;
+
+    cout <<"Hasil Penjumlahan =" <<bil1 + bil2<<endl;
+    cout <<"Hasil Penjumlahan =" <<bil1 + bil2<<endl;
+
+}
